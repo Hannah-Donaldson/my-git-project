@@ -1,6 +1,6 @@
 print('Hi Git')
 
-print('Hi from anouther git')
+print('Hi from another git')
 
 # Git Cheat Sheet
 
