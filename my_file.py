@@ -1,5 +1,7 @@
 print('Hi Git')
 
+print('Hi from anouther git')
+
 # Git Cheat Sheet
 
 ## Basic commands
