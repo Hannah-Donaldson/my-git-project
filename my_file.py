@@ -2,6 +2,12 @@ print('Hi Git')
 
 print('Hi from another git')
 
+def hi_there():
+    print('hi there')
+
+
+
+
 # Git Cheat Sheet
 
 ## Basic commands
